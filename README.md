@@ -1,5 +1,8 @@
 # Steyle
 Smf 2.1 Steyle Tehema
+
+Use this pattern to Customize the Foter
+
 Foteri Özelleştirmek icin bu kalibi kullanin
 
 code 1
